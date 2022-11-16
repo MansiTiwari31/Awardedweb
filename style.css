@@ -314,8 +314,9 @@ bottom: 13.1vw;
     font-size: 13vw; 
    
 }
-#mainheading .textt:nth-child(2){
-    margin-top: 5vw;
+      
+    #mainheading .textt:nth-child(2){
+    margin-top: 0vw;
     
 }
   
