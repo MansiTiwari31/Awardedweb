@@ -308,10 +308,7 @@ bottom: 13.1vw;
     #mainheading{
         margin-left: -3.6vw;
     }
-    #mainheading h1{
-        font-size: 10vw;
-       
-    }
+ 
     #mainheading .textt:nth-child(2){
         margin-top: -5vw;
         
