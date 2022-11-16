@@ -296,7 +296,7 @@ bottom: 13.1vw;
    text-decoration: none;
    color: black;
   }
-  #ttext p span{
+  #right span{
         opacity: 0;
   }
 
@@ -309,7 +309,7 @@ bottom: 13.1vw;
         margin-left: -3.6vw;
     }
     #mainheading h1{
-        font-size: 20vw;
+        font-size: 15vw;
        
     }
     #mainheading .textt:nth-child(2){
