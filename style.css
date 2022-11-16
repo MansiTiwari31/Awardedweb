@@ -311,18 +311,18 @@ bottom: 13.1vw;
     #mainheading h1{
     display: inline-block;
     font-family: Vanguard CF;
-    font-size: 12.5vw; 
+    font-size: 13vw; 
    
 }
   
     #mainheading p {
         font-size: 2.3vw;
-        bottom: -12vw;
+        bottom: -15vw;
         right: 5%;
         color: #919090;
     }
     .section{
-        padding: 0px 0px;
+        margin-top: 2vw;
     }
     .ddown{
         position: relative;
