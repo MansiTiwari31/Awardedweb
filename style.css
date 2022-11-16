@@ -302,8 +302,8 @@ bottom: 13.1vw;
 
   @media(max-width: 500px){
     .lds-ripple div{
-        margin-top: 52vw;
-        margin-left: 40.75vw;
+        margin-top: 70vw;
+        margin-left: 40vw;
     }
     #mainheading{
         margin-left: -3.6vw;
